@@ -1,6 +1,8 @@
 # 🚕 TaxiTech Solutions — Taxímetro
 
-> Proyecto individual del bootcamp de IA de Factoría F5 Barcelona. Repositorio original: [IA-P1-BCN/proyecto_1_esra_kesken](https://github.com/IA-P1-BCN/proyecto_1_esra_kesken)
+> Proyecto individual del bootcamp de IA de Factoría F5 Barcelona.
+> 
+> Repositorio original: [IA-P1-BCN/proyecto_1_esra_kesken](https://github.com/IA-P1-BCN/proyecto_1_esra_kesken)
 
 🌐 **Demo:** [taximeter-project.streamlit.app](https://taximeter-project.streamlit.app/)
 
