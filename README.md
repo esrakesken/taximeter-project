@@ -1,5 +1,7 @@
 # 🚕 TaxiTech Solutions — Taxímetro
 
+> Proyecto individual del bootcamp de IA de Factoría F5 Barcelona. Repositorio original: [IA-P1-BCN/proyecto_1_esra_kesken](https://github.com/IA-P1-BCN/proyecto_1_esra_kesken)
+
 ## Descripción del Proyecto
 
 Programa que sustituye a los taxímetros físicos por una solución software: calcula el importe de un trayecto en tiempo real según el estado del taxi (parado o en movimiento).
